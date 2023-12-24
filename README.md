@@ -1,7 +1,7 @@
 
 # Chat Application using Chat Engine API
 
-Welcome to the Chat Application! This application allows users to engage in real-time chat using the Chat Engine API.
+Welcome to the Chat Application! The Chat Application using Chat Engine API is a real-time messaging platform that enables users to engage in instant chat with multiple participants. The application supports features such as attaching images to messages and provides a seamless chatting experience. Built using React and Node.js, the project leverages the Chat Engine API for efficient real-time communication.  The application is easily configurable, allowing users to personalize their experience. Once set up, users can log in with their Chat Engine credentials and start chatting in real-time.
 
 ## Demo
 Check out the live demo [here](https://chat-64dmh7q2o-sweta-mishras-projects.vercel.app/)
