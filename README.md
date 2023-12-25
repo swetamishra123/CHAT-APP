@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # Chat Application using Chat Engine API
 
